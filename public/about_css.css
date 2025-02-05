@@ -1,0 +1,19 @@
+.last{
+	margin-top: 60px;
+	background: url(image/nature-2487844_960_720.jpg)no-repeat;
+	height: 30vh;
+	background-size: cover;
+	font-weight: bold;
+	position: relative;
+	text-align: center;
+}
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+body{
+	background: url(image/26102.jpg) ;
+}
